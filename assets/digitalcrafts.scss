@@ -11,7 +11,7 @@
 @import "./template/settings";
 
 // Include theme-specific fonts
-@import url("https://fonts.googleapis.com/css?family=News+Cycle:400, 700");
+@import url("https://fonts.googleapis.com/css?family=Raleway:700&display=swap");
 @import url("
   https://fonts.googleapis.com/css?family=Lato:400,
   700,
@@ -22,7 +22,7 @@
 // Override theme settings (see ../template/settings.scss)
 $mainFont: "Lato", sans-serif;
 $mainColor: #000;
-$headingFont: "News Cycle", Impact, sans-serif;
+$headingFont: "Raleway", Impact, sans-serif;
 $headingColor: #000;
 $headingTextShadow: none;
 $headingTextTransform: none;
@@ -30,6 +30,8 @@ $backgroundColor: #fff;
 $linkColor: #007ace;
 $linkColorHover: #f59937;
 $selectionBackgroundColor: rgba(#ffff00, 0.1);
+
+$heading1Size: 3em;
 
 section.has-dark-background {
   &,
