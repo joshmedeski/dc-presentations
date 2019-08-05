@@ -14,8 +14,8 @@ isHTML = true
 
 [params.reveal_hugo]
 history = true
-theme = "simple"
-margin = 0.2 
+custom_theme = "digitalcrafts.scss"
+custom_theme_compile = true
 
 [params.logo]
 src = "./digitalcrafts-logo.png"
