@@ -22,7 +22,7 @@ custom_theme = "digitalcrafts.scss"
 custom_theme_compile = true
 
 [params.logo]
-src = "./digitalcrafts-logo.png"
+src = "/digitalcrafts-logo.png"
 alt = "DigitalCrafts Logo"
 
 [params.reveal_hugo.custom_theme_options]
