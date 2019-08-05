@@ -20,6 +20,8 @@ isHTML = true
 history = true
 custom_theme = "digitalcrafts.scss"
 custom_theme_compile = true
+transition = "concave"
+highlight_theme = "solarized-light"
 
 [params.logo]
 src = "/digitalcrafts-logo.png"

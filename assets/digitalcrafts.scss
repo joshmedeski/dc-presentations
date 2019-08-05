@@ -29,7 +29,9 @@ $headingTextTransform: none;
 $backgroundColor: #fff;
 $linkColor: #007ace;
 $linkColorHover: #f59937;
-$selectionBackgroundColor: rgba(#ffff00, 0.1);
+
+$selectionColor: $mainColor;
+$selectionBackgroundColor: rgba(#ffff00, 0.2);
 
 $heading1Size: 3em;
 
