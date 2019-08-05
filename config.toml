@@ -1,4 +1,4 @@
-baseURL = "learn.joshmedeski.com"
+baseURL = "https://dc-presentations.netlify.com"
 languageCode = "en-us"
 title = "Learning material from Josh Medeski"
 disableKinds = ["sitemap", "RSS"]
@@ -6,6 +6,10 @@ theme = "reveal-hugo"
 
 [author]
 name = "Josh Medeski"
+
+# uncomment for browsing at file:///
+relativeURLs = true
+uglyURLs = true
 
 [outputFormats.Reveal]
 baseName = "index"
@@ -20,3 +24,7 @@ custom_theme_compile = true
 [params.logo]
 src = "./digitalcrafts-logo.png"
 alt = "DigitalCrafts Logo"
+
+[params.reveal_hugo.custom_theme_options]
+targetPath = "css/digitalcrafts.css"
+enableSourceMap = true
