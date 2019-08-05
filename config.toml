@@ -1,3 +1,22 @@
-baseURL = "http://example.org/"
+baseURL = "learn.joshmedeski.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Learning material from Josh Medeski"
+disableKinds = ["sitemap", "RSS"]
+theme = "reveal-hugo"
+
+[author]
+name = "Josh Medeski"
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
+
+[params.reveal_hugo]
+history = true
+theme = "simple"
+margin = 0.2 
+
+[params.logo]
+src = "./digitalcrafts-logo.png"
+alt = "DigitalCrafts Logo"
