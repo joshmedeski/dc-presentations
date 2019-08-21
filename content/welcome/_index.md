@@ -52,6 +52,16 @@ Fulltime Immersive Program!
 
 ![anna](./anna.jpg)
 
+---
+
+## Your Turn
+
+Introduce yourself and tell us:
+
+1. Name and where you are from originally
+2. Why you joined DigitalCrafts
+3. Describe your perfect Friday night
+
 {{% /section %}}
 
 ---
@@ -64,10 +74,13 @@ Fulltime Immersive Program!
 
 ## Schedule
 
-- Monday to Friday (9am-4pm)
-  - Morning: lecture (be on time!)
-  - Lunch Break (~12pm-1pm)
-  - Afternoon: work & projects
+| Activity | Times |
+| -------- | ----- |
+| Lectures | 9-12  |
+| Lunch    | 12-1  |
+| Lab      | 1-4   |
+
+(Friday afternoon shares)
 
 ---
 
@@ -105,7 +118,7 @@ Learning portal for presentations, exercises, etc...
 
 ---
 
-## Hydrate
+## Stay Hydrated
 
 A hydrated brain is a happy brain
 
@@ -113,22 +126,38 @@ A hydrated brain is a happy brain
 
 ---
 
-## Exercise
+## Do the Work
 
-Do the work, grow your skills
+> "to learn and not to do is really not to learn. To know and not to do is really not to know."
+>
+> - Stephen R. Covey
 
 ![exercise](./exercise.gif)
 
 ---
 
-## Sleep
+## Get Good Sleep
 
-The secret to retaining information
+> "Man is a genius when he is dreaming."
+>
+> - Akira Kurosawa
 
 ![sleep](./sleep.webp)
+
+---
+
+## Make Friends
+
+> "We can't help everyone, but everyone can help someone."
+>
+> - Ronald Reagan
+
+![friendship](./friendship.gif)
 
 {{% /section %}}
 
 ---
 
 # Q&A
+
+---
