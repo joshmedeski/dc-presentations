@@ -5,7 +5,7 @@ outputs = ["Reveal"]
 
 # CLI 101
 
-Command Line Interface 101
+Command Line Interface Basics
 
 ---
 
@@ -17,6 +17,13 @@ Command Line Interface 101
 
 ---
 
+{% secion %}
+
 ## What is a CLI?
 
 CLI stands for **command line interface**
+
+---
+
+
+{% /secion %}

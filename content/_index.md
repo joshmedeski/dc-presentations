@@ -9,7 +9,23 @@ For or the **Fullstack Immersive Program**
 
 ---
 
+# [Welcome](./welcome)
+
+---
+
+{{% section %}}
+
 # 1. Developer Fundamentals
+
+---
+
+## [CLI 101](./cli-101)
+
+---
+
+## [VSC/Git 101](./git-101)
+
+{{% /section %}}
 
 ---
 
@@ -70,4 +86,3 @@ For or the **Fullstack Immersive Program**
 ---
 
 # 16. Capstone Project & Demo Day
-

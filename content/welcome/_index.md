@@ -26,7 +26,7 @@ Fulltime Immersive Program!
 
 ---
 
-## My Career (8+ years)
+## My Career
 
 - Designer (formal)
   - Graphic designer
@@ -161,3 +161,7 @@ A hydrated brain is a happy brain
 # Q&A
 
 ---
+
+# Done
+
+[Back to home](/#/1)
