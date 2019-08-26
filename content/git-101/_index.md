@@ -17,7 +17,7 @@ Version Control System Git Introduction
 
 ---
 
-## What is VSC/Git?
+## What is a Version Control System (VSC)?
 
 ---
 
@@ -27,9 +27,13 @@ Version Control System Git Introduction
 
 ## Install Homebrew
 
+[How to install Homebrew](https://brew.sh)
+
 ```sh
 brew install git
 ```
+
+---
 
 ## Configure Git Defaults
 
@@ -52,7 +56,7 @@ git status
 
 ---
 
-## Comitting Your First File
+### Comitting Your First File
 
 ```sh
 touch sample-file.txt

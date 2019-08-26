@@ -23,7 +23,7 @@ For or the **Fullstack Immersive Program**
 
 ---
 
-## [VSC/Git 101](./git-101)
+## [Git 101](./git-101)
 
 {{% /section %}}
 
