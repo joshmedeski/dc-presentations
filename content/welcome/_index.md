@@ -84,14 +84,6 @@ Introduce yourself and tell us:
 
 ---
 
-## Certification Requirements
-
-- 7 absences (or less)
-- 2 passing quizzes
-- 3 major projects completed
-
----
-
 ## Schoology
 
 Learning portal for presentations, exercises, etc...
