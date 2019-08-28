@@ -48,7 +48,7 @@ pwd
 
 ```sh
 ls
-ls --long
+ls -long
 ls -l
 ```
 
