@@ -165,6 +165,8 @@ for number in range(0, 10):
     print(number)
 ```
 
+---
+
 ## Recap
 
 - What are lists
