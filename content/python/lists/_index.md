@@ -171,3 +171,9 @@ for number in range(0, 10):
 - Indexing lists
 - How to manipulate lists
 - How to loop through lists
+
+---
+
+# Q&A
+
+---
