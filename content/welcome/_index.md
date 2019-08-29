@@ -40,11 +40,13 @@ Fulltime Immersive Program!
 
 ## Interests/Hobbies
 
+- Food
 - Movies
 - Music
-- Mechanical keyboards
+- Reading
+- Tech
+- Gaming
 - Close-up magic
-- Personal development
 
 ---
 
@@ -60,7 +62,7 @@ Introduce yourself and tell us:
 
 1. Name and where you are from originally
 2. Why you joined DigitalCrafts
-3. Describe your perfect Friday night
+3. What food could you not live without?
 
 {{% /section %}}
 
@@ -80,15 +82,7 @@ Introduce yourself and tell us:
 | Lunch    | 12-1  |
 | Lab      | 1-4   |
 
-(Friday afternoon shares)
-
----
-
-## Certification Requirements
-
-- 7 absences (or less)
-- 2 passing quizzes
-- 3 major projects completed
+(Friday afternoon sharing)
 
 ---
 
@@ -106,7 +100,7 @@ Learning portal for presentations, exercises, etc...
 2. Look it up
 3. Ask a peer
 4. Ask a DIR
-5. Ask Me
+5. Ask Instructor (me)
 
 {{% /section %}}
 

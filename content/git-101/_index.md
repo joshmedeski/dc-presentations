@@ -11,7 +11,7 @@ Version Control System Git Introduction
 
 ## Overview
 
-- What is a version control system (VSC)?
+- What is a version control system (VCS)?
 - How to use git (basics)
 - How to push code onto GitHub
 
