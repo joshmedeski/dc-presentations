@@ -5,25 +5,22 @@ outputs = ["Reveal"]
 
 # CLI 101
 
-Command Line Interface Basics
+Command Line Interface Introduction
 
 ---
 
 ## Overview
 
 - What is a CLI?
-- Why use it?
-- How to use it (basics)
+- Why use a CLI?
+- Run commands with arguments and modifiers
+- Navigate the file system
+- Create folders and files
 
 ---
-
-{% secion %}
 
 ## What is a CLI?
 
 CLI stands for **command line interface**
 
 ---
-
-
-{% /secion %}

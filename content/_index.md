@@ -29,7 +29,15 @@ For or the **Fullstack Immersive Program**
 
 ---
 
+{{% section %}}
+
 # 2. Solving Problems Using Code
+
+---
+
+## [Python 101](./python/101)
+
+{{% /section %}}
 
 ---
 
