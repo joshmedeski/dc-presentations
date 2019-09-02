@@ -105,10 +105,6 @@ rm -rf ./Sample
 
 ## Commands
 
----
-
-### Recap Commands
-
 ```
 pwd
 ls
@@ -139,7 +135,7 @@ mkdir repos
 
 ---
 
-# Summary
+# CLI Summary
 
 - Commands (`pwa`)
 - Arguments (`ls -la`)
@@ -149,11 +145,3 @@ mkdir repos
 - Deleting files (`rm`)
 
 ---
-
-# Q&A
-
----
-
-# Done
-
-[Back to home](/#/1)

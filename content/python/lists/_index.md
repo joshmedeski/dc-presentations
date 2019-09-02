@@ -167,15 +167,11 @@ for number in range(0, 10):
 
 ---
 
-## Recap
+## List Summary
 
 - What are lists
 - Indexing lists
 - How to manipulate lists
 - How to loop through lists
-
----
-
-# Q&A
 
 ---

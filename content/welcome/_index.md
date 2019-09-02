@@ -16,7 +16,6 @@ Fulltime Immersive Program!
 - Logistics
 - Resources
 - Tips for Success
-- Q&A
 
 ---
 
@@ -152,10 +151,9 @@ A hydrated brain is a happy brain
 
 ---
 
-# Q&A
+## Dictionary Summary
 
----
-
-# Done
-
-[Back to home](/#/1)
+- Introduction
+- Logistics
+- Resources
+- Tips for Success

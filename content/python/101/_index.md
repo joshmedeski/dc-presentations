@@ -302,7 +302,7 @@ print("Cheese")
 
 ---
 
-## Summary
+## Python 101 Summary
 
 - What is Python?
 - Installing & Using Python
