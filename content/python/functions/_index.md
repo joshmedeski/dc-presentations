@@ -11,9 +11,8 @@ outputs = ["Reveal"]
 
 - What are functions?
 - How to create functions
-- How to return data
 - How to call functions
-- Lambda functions
+- How to return data
 - Composing functions
 
 ---
