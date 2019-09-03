@@ -141,6 +141,45 @@ print(f'{number_to_double} doubled is {number_doubled}')
 
 ---
 
+### Return ends a function
+
+```py
+def double(x):
+  return x * 2
+  print(f'{x} was doubled')
+
+double(4)
+```
+
+---
+
+## In Python, order matters
+
+```py
+double(4) # Won't work
+def double(x):
+  return x * 2
+```
+
+```py
+def double(x):
+  return x * 2
+double(4) # Will work
+```
+
+---
+
+## Intro to Scope
+
+```py
+price = 0.99
+
+def getDoubledPrice(price):
+  return price * 2
+```
+
+---
+
 ## Functions Summary
 
 - What are functions?
@@ -150,3 +189,7 @@ print(f'{number_to_double} doubled is {number_doubled}')
 - Composing functions
 
 ---
+
+```
+
+```
