@@ -39,7 +39,7 @@ class Math:
         return x * 2
 
 math = Math()
-math.double()
+math.double(5)
 ```
 
 ---
