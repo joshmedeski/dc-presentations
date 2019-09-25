@@ -87,5 +87,3 @@ JSON.parse(personString)
 new XMLHttpRequest(); // vanilla
 $.ajax(); // jQuery
 ```
-
----
