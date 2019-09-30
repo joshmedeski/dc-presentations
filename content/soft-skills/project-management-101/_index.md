@@ -222,7 +222,7 @@ outputs = ["Reveal"]
 ### Disadvantages of Kanban
 
 - Outdated board can lead to issues
-- Teams can overcomplicate the board
+- The board can become overcomplicated
 - Lack of timing
 
 ---
