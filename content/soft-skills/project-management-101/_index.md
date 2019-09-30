@@ -11,8 +11,8 @@ outputs = ["Reveal"]
 
 - Waterfall
 - Agile
-- Kanban
 - Scrum
+- Kanban
 
 ---
 
@@ -241,8 +241,8 @@ outputs = ["Reveal"]
 
 - Waterfall
 - Agile
-- Kanban
 - Scrum
+- Kanban
 
 Credit: [Smartsheet](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
 
