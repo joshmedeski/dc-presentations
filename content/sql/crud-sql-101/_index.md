@@ -110,15 +110,27 @@ CREATE TABLE table_name (
 ## Creating a table
 
 ```sql
-CREATE TABLE t (
-  id INT PRIMARY KEY,
-  name VARCHAR NOT NULL,
-  price INT DEFAULT 0
+CREATE TABLE users (
+  id SERIAL PRIMARY KEY,
+  email TEXT UNIQUE NOT NULL,
+  password TEXT NOT NULL
 );
 ```
 
-[Data types](https://www.postgresql.org/docs/11/datatype.html)
+[Data types](https://www.postgresql.org/docs/11/datatype.html) |
 [Cheat sheet](http://www.postgresqltutorial.com/postgresql-data-types/)
+
+---
+
+## Creating table with a reference
+
+```sql
+CREATE TABLE favorites(
+   id SERIAL PRIMARY KEY,
+   title TEXT NOT NULL,
+   user_id INT REFERENCES users(id)
+);
+```
 
 ---
 
