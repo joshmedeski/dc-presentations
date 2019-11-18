@@ -17,6 +17,7 @@ outputs = ["Reveal"]
 - Using a \<Provider\>
 - Mapping state to props
 - Mapping dispatch to props
+- Pass components inside provider
 
 ---
 
@@ -143,7 +144,7 @@ export default connect(null, mapDispatchToProps)(IncrementButton);
 
 ---
 
-### Calling the Components
+### Pass components inside provider
 
 ```js
 <Provider store={store}>
@@ -165,3 +166,4 @@ export default connect(null, mapDispatchToProps)(IncrementButton);
 - Using a \<Provider\>
 - Mapping state to props
 - Mapping dispatch to props
+- Pass components inside provider
