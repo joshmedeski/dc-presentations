@@ -56,6 +56,15 @@ npm install redux-thunk
 
 ---
 
+### Applying middleware
+
+```js
+import thunk from "redux-thunk";
+const store = createStore(rootReducer, applyMiddleware(thunk));
+```
+
+---
+
 ### Creating actions
 
 In order to track the status of the asynchronous process, create an action for each step along the way.
@@ -119,7 +128,7 @@ export function fetchProducts() {
   return async dispatch => {
     dispatch(fetchProductsBegin());
     try {
-      const json = await fakeGetProducts();
+      const json = await fakeGetProducts(); // api call
       dispatch(fetchProductsSuccess(json.products));
       return json.products;
     } catch (error) {
