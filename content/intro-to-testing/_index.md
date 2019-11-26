@@ -15,7 +15,11 @@ To examine that the code written has the expected functionality and output expec
 
 ## Why Test?
 
--
+- Prevents regressions
+- Verifies expected functionality
+- Enforces the single responsibility principle
+- Helps discover bugs earlier on in development by thinking through less obvious user cases
+- Builds better communication between developers, managers, and product owners
 
 ---
 
@@ -43,7 +47,11 @@ To examine that the code written has the expected functionality and output expec
 - Integration testing
 - End-to-end testing
 
-There are 100+ types of testing, here is a [list of more](https://www.guru99.com/types-of-software-testing.html).
+---
+
+## Development Cycles
+
+Systematized workflows for getting work done using testing.
 
 ---
 
@@ -64,7 +72,13 @@ There are 100+ types of testing, here is a [list of more](https://www.guru99.com
 
 ---
 
-## Simple Unit Test Example
+### More Types of Testing
+
+There are 100+ types of testing, here is a [list of more](https://www.guru99.com/types-of-software-testing.html).
+
+---
+
+### Simple Unit Test Example
 
 ```js
 function double(numberToDouble) {
@@ -72,6 +86,21 @@ function double(numberToDouble) {
 }
 var assert = require("chai").assert;
 expect(double(2)).to.equal(4);
+```
+
+---
+
+### Sample integration (e2e) Test
+
+```js
+describe("My First Test", function() {
+  it('clicking "type" navigates to a new url', function() {
+    cy.visit("https://example.cypress.io");
+    cy.contains("type").click();
+    // Should be on a new URL which includes '/commands/actions'
+    cy.url().should("include", "/commands/actions");
+  });
+});
 ```
 
 ---
