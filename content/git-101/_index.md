@@ -107,5 +107,3 @@ git pull origin master
 ---
 
 # Done
-
-[Back to home](/#/1)
